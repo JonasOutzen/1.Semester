@@ -6,7 +6,7 @@ class Background {
 
 
   void drawSun() {
-    // Sun
+    // Sun!
     ellipseMode(CENTER);
     strokeWeight(2);
     stroke(0);

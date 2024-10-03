@@ -4,7 +4,7 @@ float g = random(0, 100);
 float b = random(0, 100);
 float a = random(0, 20);
 
-// Flying hat
+// Flying hat!?
 int flyingSpeed = 3;
 int flyingHatY = 200;
 

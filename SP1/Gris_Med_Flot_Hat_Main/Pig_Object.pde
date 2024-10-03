@@ -13,7 +13,7 @@ class Pig {
   }
 
   void drawHat() {
-    //Hat Modes
+    //Hat Modes!
     ellipseMode(CENTER);
     rectMode(CENTER);
     stroke(0);

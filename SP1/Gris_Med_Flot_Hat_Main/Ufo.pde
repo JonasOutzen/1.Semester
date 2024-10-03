@@ -1,7 +1,7 @@
 class UFO {
 
   void drawUFO() {
-  /* UFO */
+  // UFO!
     fill(50, 20, 80); 
     ellipse(pigX + 80, pigY + 410, 200, 50);  
 

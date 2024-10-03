@@ -24,7 +24,7 @@ void draw() {
   myPig.drawPig();
   myUFO.drawUFO();
 
-  // Hat and its movement
+  // Hat and its movement!
   myPig.drawHat();
   myPig.hatMovement();
 }
