@@ -6,7 +6,6 @@ UFO myUFO = new UFO();
 void setup() {
   size(700, 700);
   colorMode(RGB, 100);
-
   //Using an array for text:
   for (int i = 0; i < Greeting.length; i++) {
     println(Greeting[i]);
