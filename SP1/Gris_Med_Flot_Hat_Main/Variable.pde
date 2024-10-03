@@ -20,3 +20,6 @@ int pigY = 0;
 
 //Array
   String[] Greeting = {"Hej med dig", "Hvordan går det?", "Hvad synes i om grisen?", "Lyt lige til 4 Wheeler af Yuno Miles på Spotify"};
+  
+  
+  
