@@ -1,0 +1,17 @@
+@startuml
+class Customer {
+- String name
+- int balance
++ setName(String name)
++ getName()
+
+}
+
+class Bank {
+-(String name)
+- ArrayList <Customer> customers
++ void addCustomer(Customer c)
+}
+
+Bank *-- Customer
+@enduml
