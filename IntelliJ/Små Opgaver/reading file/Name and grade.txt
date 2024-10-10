@@ -1,0 +1,10 @@
+Signe,12
+Mikkel,10
+Emma,7
+Oliver,4
+Clara,02
+Frederik,10
+Ida,12
+Jonas,12
+Jonathan,12
+Kudsk,-3
