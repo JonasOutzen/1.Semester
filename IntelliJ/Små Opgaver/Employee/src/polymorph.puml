@@ -1,0 +1,14 @@
+@startuml
+
+class Employee{
+ - String name
+ - String title
+ - int yearsHired
+ + String getName()
+ + String getTitle()
+ + int getYearsHired()
+ }
+
+ class MonthlyPaidEmployee
+
+ Employee <|-- MonthlyPaidEmployee
